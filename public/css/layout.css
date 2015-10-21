@@ -1,0 +1,39 @@
+header[role="banner"] #logo {
+  display: block;
+  margin: 20px auto;
+}
+#navbar-primary.navbar-default {
+  background: none ;
+
+  border-style:double;
+  border-color: #707070 ;
+}
+#navbar-primary.navbar-default .navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+#navbar-primary.navbar-default .navbar-nav > li {
+  display: inline-block;
+  float: none;
+}
+#navbar-primary.navbar-default .navbar-nav > li > a {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+div.wrap{
+	width:900px;
+	margin:0 auto;
+}
+
+
+form{
+	width:550px;
+	margin:0 auto;
+}
+
+div.search {
+	width:500px;
+	margin:0 auto;
+	float:left;
+}

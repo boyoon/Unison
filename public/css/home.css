@@ -1,0 +1,26 @@
+
+form{
+	width:700px;
+	margin:0 auto;
+}
+
+div.search {
+	width:650px;
+	margin:0 auto;
+	float:left;
+}
+
+
+div.contained {
+    text-align:center; /* center everything in the container */
+    	padding:10px;
+}
+
+.jumbotron {
+  margin-bottom: 40px ;
+
+  width:900px;
+  color: black ;
+  text-shadow: black 0.1em 0.3em 0.3em ;
+
+}
