@@ -22,7 +22,6 @@ get('/search')do
   end
 end
   
-
  get('/classes')do 
     erb :classes
  end
